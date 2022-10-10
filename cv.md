@@ -2,9 +2,17 @@
 
 ---
 
-St.Parkent 253/53 osakhibjamal@example.com
-Tashkent @milnescate
-Uzbekistan 998913720244
+osakhibjamal@example.com,
+@milnescate,
+998913720244
+
+---
+
+---
+
+St.Parkent 253/53,
+Tashkent,
+Uzbekistan
 
 ---
 
